@@ -171,7 +171,7 @@ This project uses the arXiv dataset, which contains metadata of scholarly papers
 
 
 
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$NOTE$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# Note  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # CLI (Command Line Interface):
 
 A CLI is like talking to our computer through text. Instead of clicking buttons or icons, we can type commands to tell the computer what to do. It's similar to sending text messages, but we're giving instructions to our computer.
@@ -180,9 +180,7 @@ For example, if we want to see a list of files in a folder, we might type ls or 
 
 It's a powerful way to control our computer, especially for tasks that need precision and speed.
 
-# Examples
-
---CLI Commands:
+# Examples: CLI Commands:
 
 --files.upload(): Opens a dialog to upload files in Google Colab.
 
